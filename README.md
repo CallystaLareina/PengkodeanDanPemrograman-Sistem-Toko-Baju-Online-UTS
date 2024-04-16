@@ -12,7 +12,7 @@ USERNAME : admin ; PASSWORD : admin
 
 REFERENSI GitHub : https://github.com/RafyMrX/TOKO-ONLINE-ROTI/tree/master
 
-PROGRAM ASLI
+# PROGRAM ASLI
 ![image](https://github.com/CallystaLareina/PengkodeanDanPemrograman-Sistem-Toko-Baju-Online-UTS/assets/167252595/1d812427-4076-4c50-af26-8b2184963866)
 ![image](https://github.com/CallystaLareina/PengkodeanDanPemrograman-Sistem-Toko-Baju-Online-UTS/assets/167252595/b8f8c362-4824-462c-b958-ae799219d656)
 ![image](https://github.com/CallystaLareina/PengkodeanDanPemrograman-Sistem-Toko-Baju-Online-UTS/assets/167252595/4f060cb7-45af-47fe-93d8-5214ae64a180)
@@ -26,7 +26,7 @@ PROGRAM ASLI
 ![image](https://github.com/CallystaLareina/PengkodeanDanPemrograman-Sistem-Toko-Baju-Online-UTS/assets/167252595/a9f97a9b-0fcc-455a-a69b-9ed2ffebcb6b)
 
 
-PROGRAM SETELAH DIMODIFIKASI
+# PROGRAM SETELAH DIMODIFIKASI
 ![image](https://github.com/CallystaLareina/PengkodeanDanPemrograman-Sistem-Toko-Baju-Online-UTS/assets/167252595/fa295fef-a21c-4b59-b6fe-8d4010b61dff)
 ![image](https://github.com/CallystaLareina/PengkodeanDanPemrograman-Sistem-Toko-Baju-Online-UTS/assets/167252595/a09cdee0-cefd-40dc-aea3-74a00c910813)
 ![image](https://github.com/CallystaLareina/PengkodeanDanPemrograman-Sistem-Toko-Baju-Online-UTS/assets/167252595/5bab2160-0a89-4c1d-a9cc-d8c1c6478b8f)
@@ -40,5 +40,5 @@ PROGRAM SETELAH DIMODIFIKASI
 ![image](https://github.com/CallystaLareina/PengkodeanDanPemrograman-Sistem-Toko-Baju-Online-UTS/assets/167252595/8d1d1f7d-2c81-46f1-8181-e859fb2b2478)
 
 
-ERD SISTEM TOKO BAJU ONLINE
+# ERD SISTEM TOKO BAJU ONLINE
 ![image](https://github.com/CallystaLareina/PengkodeanDanPemrograman-Sistem-Toko-Baju-Online-UTS/assets/167252595/6eb1e565-7dce-4f7d-aab1-1275f9968a44)
